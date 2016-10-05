@@ -1,0 +1,6 @@
+D:\Programming\stackbuilders\PicoYPlacaPredictor\PicoYPlacaPredictor\bin\Debug\PicoYPlacaPredictor.exe.config
+D:\Programming\stackbuilders\PicoYPlacaPredictor\PicoYPlacaPredictor\bin\Debug\PicoYPlacaPredictor.exe
+D:\Programming\stackbuilders\PicoYPlacaPredictor\PicoYPlacaPredictor\bin\Debug\PicoYPlacaPredictor.pdb
+D:\Programming\stackbuilders\PicoYPlacaPredictor\PicoYPlacaPredictor\obj\Debug\PicoYPlacaPredictor.csprojResolveAssemblyReference.cache
+D:\Programming\stackbuilders\PicoYPlacaPredictor\PicoYPlacaPredictor\obj\Debug\PicoYPlacaPredictor.exe
+D:\Programming\stackbuilders\PicoYPlacaPredictor\PicoYPlacaPredictor\obj\Debug\PicoYPlacaPredictor.pdb
